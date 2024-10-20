@@ -10,3 +10,7 @@ El archivo 1301 es el que usé para la creación de las variables manuales intra
 Como pueden ver, no hay nada raro ni extraordinario en la corrida, es como venimos corriendo todo siempre.
 
 Para correr el modelo, simplemente deben ejecutar el script del archivo 902 con "Source" luego de haber hecho todo lo mencionado anteriormente.
+
+Cuando se termine de correr el modelo, deben elegir el archivo "KA-XXXX_01_068_r1_11500.csv" para que sea la submission elegida en Kaggle, ya que esa fue la que elegí yo.
+
+Recomiendo usar una VM grande, yo usé máquinas de 512 Gigas. Puede que una de 256 funcione, pero los tiempos de corrida van a ser considerables.
