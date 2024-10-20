@@ -1,0 +1,12 @@
+En esta carpeta hay 4 archivos.
+
+El archivo de ambiente debe guardarse dentro de la carpeta "ambiente" y correrlo para realizar la configuración inicial necesaria. Básicamente es decir que estás en la competencia vivencial, elegir los datasets de la misma
+y elegir la semilla, que es la 100103.
+
+Los archivos 902 y 929 son los del worflow del semillerío. Deben guardarse en la carpeta "workflows" y tienen todas las configuraciones necesarias para replicar mi modelo elegido.
+
+El archivo 1301 es el que usé para la creación de las variables manuales intra mes de FE. Debe guardarse en la carpeta "wf-etapas".
+
+Como pueden ver, no hay nada raro ni extraordinario en la corrida, es como venimos corriendo todo siempre.
+
+Para correr el modelo, simplemente deben ejecutar el script del archivo 902 con "Source" luego de haber hecho todo lo mencionado anteriormente.
